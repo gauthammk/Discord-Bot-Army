@@ -1,0 +1,17 @@
+{
+  "name": "project-chuckle",
+  "version": "1.0.0",
+  "description": "Delivering funny jokes and memes since 17/07/20.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "author": "Gautham MK",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "fetch": "^1.1.0",
+    "snoowrap": "^1.21.0"
+  }
+}
