@@ -11,7 +11,7 @@ client.on("ready", async () => {
   console.log("Bot is running!");
 
   // establish channel to send the message in
-  const channel = client.channels.cache.get("732875472525852767");
+  const channel = client.channels.cache.get("732492505500876882");
   var res;
 
   // API endpoint

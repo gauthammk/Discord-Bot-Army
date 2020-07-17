@@ -18,7 +18,7 @@ client.on("ready", async () => {
   console.log("Bot is running!");
 
   // establish channel to send the message in
-  const channel = client.channels.cache.get("732875472525852767");
+  const channel = client.channels.cache.get("732489019493056553");
 
   try {
     // reddit OAuth
